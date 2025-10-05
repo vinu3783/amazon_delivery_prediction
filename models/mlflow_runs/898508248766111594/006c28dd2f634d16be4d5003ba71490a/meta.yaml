@@ -1,0 +1,15 @@
+artifact_uri: file:///D:\amazon_delivery_prediction\models\mlflow_runs/898508248766111594/006c28dd2f634d16be4d5003ba71490a/artifacts
+end_time: 1758822030485
+entry_point_name: ''
+experiment_id: '898508248766111594'
+lifecycle_stage: active
+run_id: 006c28dd2f634d16be4d5003ba71490a
+run_name: Gradient Boosting
+run_uuid: 006c28dd2f634d16be4d5003ba71490a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758821859596
+status: 3
+tags: []
+user_id: mjrak

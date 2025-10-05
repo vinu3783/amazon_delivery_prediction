@@ -1,0 +1,15 @@
+artifact_uri: file:///D:\amazon_delivery_prediction\models\mlflow_runs/898508248766111594/d732c621ce2940959d7ece752fe07014/artifacts
+end_time: 1758821832864
+entry_point_name: ''
+experiment_id: '898508248766111594'
+lifecycle_stage: active
+run_id: d732c621ce2940959d7ece752fe07014
+run_name: Linear Regression
+run_uuid: d732c621ce2940959d7ece752fe07014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758821828077
+status: 3
+tags: []
+user_id: mjrak

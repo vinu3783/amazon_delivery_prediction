@@ -1,0 +1,15 @@
+artifact_uri: file:///D:\amazon_delivery_prediction\models\mlflow_runs/898508248766111594/a78ef14531c84c8c9d17136e2885282f/artifacts
+end_time: 1758821859587
+entry_point_name: ''
+experiment_id: '898508248766111594'
+lifecycle_stage: active
+run_id: a78ef14531c84c8c9d17136e2885282f
+run_name: Random Forest
+run_uuid: a78ef14531c84c8c9d17136e2885282f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758821832872
+status: 3
+tags: []
+user_id: mjrak
